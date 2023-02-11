@@ -3,6 +3,10 @@ body {
   font-family: "Helvetica";
 }
 
+h3{
+  color: red;
+}
+
 h2 {
   font-size: 18px;
   padding: 10px 20px;
